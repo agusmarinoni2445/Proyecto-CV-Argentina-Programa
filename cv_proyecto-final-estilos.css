@@ -42,7 +42,7 @@ body {
   justify-content: space-around;
   color: white;
 }
-/* Ver de modificar el margin */
+
 .navbar {
   display: flex;
   font-size: 30px;
@@ -198,6 +198,10 @@ input[type="text"] {
   margin-bottom: 32px;
 }
 
+.mt-2 {
+  margin-top: 20px;
+}
+
 .message {
   height: 32px;
   margin-top: 32px;
@@ -206,4 +210,8 @@ input[type="text"] {
 
 .ml-1 {
   margin-left: 32px;
+}
+
+.alignment {
+  width: 200px;
 }
